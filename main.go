@@ -10,5 +10,5 @@ func main() {
 	fmt.Println("Hello gais")
 
 	controllers.PrintUserInput("Jerry")
-	fmt.Println("darien")
+	controllers.PrintUserInput("Darien")
 }
