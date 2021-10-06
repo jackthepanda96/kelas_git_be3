@@ -12,4 +12,9 @@ func PrintUserInput(input string) {
 
 func FiturDevelop1() {
 	fmt.Println("Ini fitur baru 1")
+	fmt.Println(InsertBuku("Rich Dad, Poor Dad", "Robert T Kiyosaki"))
+}
+
+func InsertBuku(judul, pengarang string) string {
+	return fmt.Sprint(judul, " Karangan : ", pengarang)
 }
