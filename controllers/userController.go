@@ -18,3 +18,7 @@ func FiturDevelop1() {
 func InsertBuku(judul, pengarang string) string {
 	return fmt.Sprint(judul, " Karangan : ", pengarang)
 }
+
+func DelBuku() string {
+	return "Buku Telah Dihapus"
+}
