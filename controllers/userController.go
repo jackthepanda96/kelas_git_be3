@@ -9,3 +9,7 @@ func TestPrintUserControl() {
 func PrintUserInput(input string) {
 	fmt.Println(input)
 }
+
+func FiturDevelop1() {
+	fmt.Println("Ini fitur baru 1")
+}
