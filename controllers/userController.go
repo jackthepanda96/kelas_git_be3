@@ -13,3 +13,7 @@ func PrintUserInput(input string) {
 func FiturDevelop1() {
 	fmt.Println("Ini fitur baru 1")
 }
+
+func DelBuku() string {
+	return "Buku Telah Dihapus"
+}
