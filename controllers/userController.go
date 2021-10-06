@@ -12,7 +12,7 @@ func PrintUserInput(input string) {
 
 func FiturDevelop1() {
 	fmt.Println("Ini fitur baru 1")
-	fmt.Println(InsertBuku("Atomic Habits", "Mark Manson"))
+	fmt.Println(InsertBuku("Rich Dad, Poor Dad", "Mark Manson"))
 }
 
 func InsertBuku(judul, pengarang string) string {
