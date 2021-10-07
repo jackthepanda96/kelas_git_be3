@@ -10,5 +10,6 @@ func main() {
 	fmt.Println("Hello gais")
 
 	controllers.PrintUserInput("Jerry")
-	controllers.PrintUserInput("Darien")
+	controllers.PrintUserInput("This one too")
+	controllers.PrintUserInput("Test For Merge")
 }
