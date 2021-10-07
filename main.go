@@ -10,4 +10,9 @@ func main() {
 	fmt.Println("Hello gais")
 
 	controllers.PrintUserInput("Jerry")
+<<<<<<< HEAD
+=======
+	controllers.PrintUserInput("Hasan")
+	controllers.PrintUserInput("Hans")
+>>>>>>> b48212a (Try to commit del-buku)
 }
