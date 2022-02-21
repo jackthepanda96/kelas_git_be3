@@ -12,4 +12,5 @@ func main() {
 	controllers.PrintUserInput("Jerry")
 	controllers.PrintUserInput("Hasan")
 	controllers.PrintUserInput("Hans")
+	controllers.PrintUserInput("Darien")
 }
