@@ -10,5 +10,7 @@ func main() {
 	fmt.Println("Hello gais")
 
 	controllers.PrintUserInput("Jerry")
+	controllers.PrintUserInput("Hasan")
+	controllers.PrintUserInput("Hans")
 	controllers.PrintUserInput("Darien")
 }
